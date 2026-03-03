@@ -13,7 +13,7 @@
 
 This project simulates a "Central Dispatcher" (The Player) tasked with managing the integrity of multiple independent Nodes (Agents) under varying stress loads.
 
-The primary engineering goal was to decouple **Logic** from **Data**. Abilities, Stress Events, and Unit Configurations are defined as abstract resources. This allows the simulation engine to process arbitrary effects without requiring changes to the source code—a pattern essential for scalable software.
+The primary engineering goal was to decouple **Logic** from **Data**. Abilities, Stress Events, and Unit Configurations are defined as abstract resources. This allows the simulation engine to process arbitrary effects without requiring changes to the source code. A pattern essential for scalable software.
 
 ---
 
